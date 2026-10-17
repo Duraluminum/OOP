@@ -1,3 +1,5 @@
+package task1;
+
 interface IDelivery {
     void deliver(String order);
 }
